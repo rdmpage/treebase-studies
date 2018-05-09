@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+
+
+
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S17771">
+    <title>Cupreoboletus (Boletaceae, Boletineae), a new molecularly confirmed monotypic genus segregated from Boletus sect. Luridi to reassign the Mediterranean species B. poikilochromus</title>
+    <link>http://purl.org/phylo/treebase/phylows/</link>
+    <description>Serializations for study/TB2:S17771</description>
+    
+	
+		<prism:section 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Study</prism:section>
+	
+		<tb:identifier.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">17771</tb:identifier.study>
+	
+		<tb:identifier.study.tb1 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#"></tb:identifier.study.tb1>
+	
+		<tb:title.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">Cupreoboletus (Boletaceae, Boletineae), a new molecularly confirmed monotypic genus segregated from Boletus sect. Luridi to reassign the Mediterranean species B. poikilochromus</tb:title.study>
+	
+		<dc:date 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">2015-07-12</dc:date>
+	
+		<prism:modificationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2015-07-12</prism:modificationDate>
+	
+		<prism:creationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2015-06-17</prism:creationDate>
+	
+		<dcterms:bibliographicCitation 
+			xmlns:dcterms="http://purl.org/dc/terms/">Vizzini A., &amp; Ercole E. 2015. Cupreoboletus (Boletaceae, Boletineae), a new molecularly confirmed monotypic genus segregated from Boletus sect. Luridi to reassign the Mediterranean species B. poikilochromus. Mycologia, .</dcterms:bibliographicCitation>
+	
+		<dc:title 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Cupreoboletus (Boletaceae, Boletineae), a new molecularly confirmed monotypic genus segregated from Boletus sect. Luridi to reassign the Mediterranean species B. poikilochromus</dc:title>
+	
+		<dc:creator 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Vizzini A., &amp; Ercole E.</dc:creator>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Vizzini A.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Ercole E.</dc:contributor>
+	
+		<prism:publicationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2015</prism:publicationDate>
+	
+		<prism:doi 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:doi>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Basidiomycota</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Boletales</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Boletus martaluciae</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">European boletes</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">molecular phylogenetics</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">taxonomy</dc:subject>
+	
+		<prism:publicationName 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Mycologia</prism:publicationName>
+	
+		<dc:publisher 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Mycologia</dc:publisher>
+	
+		<prism:volume 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:volume>
+	
+		<prism:number 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:number>
+	    
+    
+    <items>
+      <rdf:Seq>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=html"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=nexml"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=nexus"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=rdf"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=html">
+    <title>Web page</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=html</link>
+    <description>A human-readable version of the resource</description>
+    <dc:format>text/html</dc:format>
+    <dc:language>EN-US</dc:language>
+  </item>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=nexml">
+    <title>NeXML file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=nexml</link>
+    <description>A NeXML serialization of the resource</description>
+    <dc:format>application/xml</dc:format>
+  </item>
+    
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=nexus">
+    <title>Nexus file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S17771?format=nexus</link>
+    <description>A Nexus serialization of the resource</description>
+    <dc:format>text/plain</dc:format>
+  </item>
+     
+ 
+</rdf:RDF>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+
+
+
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15345">
+    <title>Sex-specific Post-translational Regulation of the Gamete Fusogen GCS1 in the Isogamous Volvocine Alga Gonium pectorale</title>
+    <link>http://purl.org/phylo/treebase/phylows/</link>
+    <description>Serializations for study/TB2:S15345</description>
+    
+	
+		<prism:section 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Study</prism:section>
+	
+		<tb:identifier.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">15345</tb:identifier.study>
+	
+		<tb:identifier.study.tb1 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#"></tb:identifier.study.tb1>
+	
+		<tb:title.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">Sex-specific Post-translational Regulation of the Gamete Fusogen GCS1 in theãIsogamous Volvocine Alga Gonium pectorale</tb:title.study>
+	
+		<dc:date 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">2014-02-13</dc:date>
+	
+		<prism:modificationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2014-02-13</prism:modificationDate>
+	
+		<prism:creationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2014-02-02</prism:creationDate>
+	
+		<dcterms:bibliographicCitation 
+			xmlns:dcterms="http://purl.org/dc/terms/">Kawai-toyooka H., Mori T., Hamaji T., Suzuki M., Olson B.J., Uemura T., Ueda T., Nakano A., Toyoda A., Fujiyama A., &amp; Nozaki H. 2014. Sex-specific Post-translational Regulation of the Gamete Fusogen GCS1 in the Isogamous Volvocine Alga Gonium pectorale. Eukaryotic Cell, .</dcterms:bibliographicCitation>
+	
+		<dc:title 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Sex-specific Post-translational Regulation of the Gamete Fusogen GCS1 in the Isogamous Volvocine Alga Gonium pectorale</dc:title>
+	
+		<dc:creator 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Kawai-toyooka H., Mori T., Hamaji T., Suzuki M., Olson B.J., Uemura T., Ueda T., Nakano A., Toyoda A., Fujiyama A., &amp; Nozaki H.</dc:creator>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Kawai-toyooka H.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Mori T.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Hamaji T.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Suzuki M.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Olson B.J.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Uemura T.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Ueda T.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Nakano A.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Toyoda A.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Fujiyama A.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Nozaki H.</dc:contributor>
+	
+		<prism:publicationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2014</prism:publicationDate>
+	
+		<prism:doi 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:doi>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">evolution</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">gamete</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">fusogen</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">volvocine algae</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">isogamete</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Gonium</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">GCS1/HAP2</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">post-translational regulation </dc:subject>
+	
+		<prism:publicationName 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Eukaryotic Cell</prism:publicationName>
+	
+		<dc:publisher 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Eukaryotic Cell</dc:publisher>
+	
+		<prism:volume 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:volume>
+	
+		<prism:number 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:number>
+	    
+    
+    <items>
+      <rdf:Seq>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=html"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=nexml"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=nexus"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=rdf"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=html">
+    <title>Web page</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=html</link>
+    <description>A human-readable version of the resource</description>
+    <dc:format>text/html</dc:format>
+    <dc:language>EN-US</dc:language>
+  </item>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=nexml">
+    <title>NeXML file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=nexml</link>
+    <description>A NeXML serialization of the resource</description>
+    <dc:format>application/xml</dc:format>
+  </item>
+    
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=nexus">
+    <title>Nexus file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S15345?format=nexus</link>
+    <description>A Nexus serialization of the resource</description>
+    <dc:format>text/plain</dc:format>
+  </item>
+     
+ 
+</rdf:RDF>

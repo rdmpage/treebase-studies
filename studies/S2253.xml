@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+
+
+
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2253">
+    <title>Phylogenetic relationships among southern South American species of Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae: Leguminosae) based on molecular and morphological data.</title>
+    <link>http://purl.org/phylo/treebase/phylows/</link>
+    <description>Serializations for study/TB2:S2253</description>
+    
+	
+		<prism:section 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Study</prism:section>
+	
+		<tb:identifier.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">2253</tb:identifier.study>
+	
+		<tb:identifier.study.tb1 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">S2264</tb:identifier.study.tb1>
+	
+		<dc:date 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">2009-01-16</dc:date>
+	
+		<prism:modificationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2009-01-16</prism:modificationDate>
+	
+		<prism:creationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2009-01-16</prism:creationDate>
+	
+		<dcterms:bibliographicCitation 
+			xmlns:dcterms="http://purl.org/dc/terms/">Fortunato R., Luckow M., Poggio L., Sede S., Talia P., Tosto D., &amp; Sede S. 2009. Phylogenetic relationships among southern South American species of Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae: Leguminosae) based on molecular and morphological data. Australian Journal of Botany, null.</dcterms:bibliographicCitation>
+	
+		<dc:title 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Phylogenetic relationships among southern South American species of Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae: Leguminosae) based on molecular and morphological data.</dc:title>
+	
+		<dc:creator 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Fortunato R., Luckow M., Poggio L., Sede S., Talia P., Tosto D., &amp; Sede S.</dc:creator>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Fortunato R.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Luckow M.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Poggio L.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Sede S.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Talia P.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Tosto D.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Sede S.</dc:contributor>
+	
+		<prism:publicationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2009</prism:publicationDate>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/"></dc:subject>
+	
+		<prism:publicationName 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Australian Journal of Botany</prism:publicationName>
+	
+		<dc:publisher 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Australian Journal of Botany</dc:publisher>
+	    
+    
+    <items>
+      <rdf:Seq>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=html"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=nexml"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=nexus"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=rdf"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=html">
+    <title>Web page</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=html</link>
+    <description>A human-readable version of the resource</description>
+    <dc:format>text/html</dc:format>
+    <dc:language>EN-US</dc:language>
+  </item>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=nexml">
+    <title>NeXML file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=nexml</link>
+    <description>A NeXML serialization of the resource</description>
+    <dc:format>application/xml</dc:format>
+  </item>
+    
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=nexus">
+    <title>Nexus file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S2253?format=nexus</link>
+    <description>A Nexus serialization of the resource</description>
+    <dc:format>text/plain</dc:format>
+  </item>
+     
+ 
+</rdf:RDF>

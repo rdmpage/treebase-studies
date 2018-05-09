@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+
+
+
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S768">
+    <title>Molecular and morphological differentiation of Botryosphaeria dothidea (anamorph Fusicoccum aesculi) from some other fungi with Fusicoccum anamorphs.</title>
+    <link>http://purl.org/phylo/treebase/phylows/</link>
+    <description>Serializations for study/TB2:S768</description>
+    
+	
+		<prism:section 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Study</prism:section>
+	
+		<tb:identifier.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">768</tb:identifier.study>
+	
+		<tb:identifier.study.tb1 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">S621</tb:identifier.study.tb1>
+	
+		<dc:date 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">2001-06-06</dc:date>
+	
+		<prism:modificationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2001-06-06</prism:modificationDate>
+	
+		<prism:creationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2001-06-06</prism:creationDate>
+	
+		<dcterms:bibliographicCitation 
+			xmlns:dcterms="http://purl.org/dc/terms/">Smith D., &amp; Stanosz G. 2001. Molecular and morphological differentiation of Botryosphaeria dothidea (anamorph Fusicoccum aesculi) from some other fungi with Fusicoccum anamorphs. Mycologia, 93: 505-515.</dcterms:bibliographicCitation>
+	
+		<dc:title 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Molecular and morphological differentiation of Botryosphaeria dothidea (anamorph Fusicoccum aesculi) from some other fungi with Fusicoccum anamorphs.</dc:title>
+	
+		<dc:creator 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Smith D., &amp; Stanosz G.</dc:creator>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Smith D.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Stanosz G.</dc:contributor>
+	
+		<prism:publicationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2001</prism:publicationDate>
+	
+		<prism:startingPage 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">505</prism:startingPage>
+	
+		<prism:endingPage 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">515</prism:endingPage>
+	
+		<prism:pageRange 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">505-515</prism:pageRange>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Botryosphaeria parva; Botryosphaeria ribis; Fusicoccum luteum; Fusicoccum parvum; nuclear rDNA ITS; RAPD</dc:subject>
+	
+		<prism:publicationName 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Mycologia</prism:publicationName>
+	
+		<dc:publisher 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Mycologia</dc:publisher>
+	
+		<prism:volume 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">93</prism:volume>
+	    
+    
+    <items>
+      <rdf:Seq>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=html"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=nexml"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=nexus"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=rdf"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=html">
+    <title>Web page</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=html</link>
+    <description>A human-readable version of the resource</description>
+    <dc:format>text/html</dc:format>
+    <dc:language>EN-US</dc:language>
+  </item>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=nexml">
+    <title>NeXML file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=nexml</link>
+    <description>A NeXML serialization of the resource</description>
+    <dc:format>application/xml</dc:format>
+  </item>
+    
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=nexus">
+    <title>Nexus file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S768?format=nexus</link>
+    <description>A Nexus serialization of the resource</description>
+    <dc:format>text/plain</dc:format>
+  </item>
+     
+ 
+</rdf:RDF>

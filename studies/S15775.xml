@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+
+
+
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15775">
+    <title>Biosynthesis and genomic analysis of medium-chain hydrocarbon production by the endophytic fungal isolate Nigrograna mackinonnii (E5202H)</title>
+    <link>http://purl.org/phylo/treebase/phylows/</link>
+    <description>Serializations for study/TB2:S15775</description>
+    
+	
+		<prism:section 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Study</prism:section>
+	
+		<tb:identifier.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">15775</tb:identifier.study>
+	
+		<tb:identifier.study.tb1 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#"></tb:identifier.study.tb1>
+	
+		<tb:title.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">Biosynthesis and genomic analysis of medium-chain hydrocarbon production by the endophytic fungal isolate Nigrograna mackinonnii E5202H</tb:title.study>
+	
+		<dc:date 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">2014-11-21</dc:date>
+	
+		<prism:modificationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2014-11-21</prism:modificationDate>
+	
+		<prism:creationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2014-05-05</prism:creationDate>
+	
+		<dcterms:bibliographicCitation 
+			xmlns:dcterms="http://purl.org/dc/terms/">Shaw J.J., Spakowicz D.J., Dalal R.S., Davis J.H., Lehr N.A., Dunican B.F., Orellana E.A., Narváez-trujillo A., &amp; Strobel S.A. 2014. Biosynthesis and genomic analysis of medium-chain hydrocarbon production by the endophytic fungal isolate Nigrograna mackinonnii (E5202H). Applied Microbiology and Biotechnology, .</dcterms:bibliographicCitation>
+	
+		<dc:title 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Biosynthesis and genomic analysis of medium-chain hydrocarbon production by the endophytic fungal isolate Nigrograna mackinonnii (E5202H)</dc:title>
+	
+		<dc:creator 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Shaw J.J., Spakowicz D.J., Dalal R.S., Davis J.H., Lehr N.A., Dunican B.F., Orellana E.A., Narváez-trujillo A., &amp; Strobel S.A.</dc:creator>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Shaw J.J.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Spakowicz D.J.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Dalal R.S.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Davis J.H.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Lehr N.A.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Dunican B.F.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Orellana E.A.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Narváez-trujillo A.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Strobel S.A.</dc:contributor>
+	
+		<prism:publicationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2014</prism:publicationDate>
+	
+		<prism:doi 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:doi>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Endophyte</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">natural product</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Volatile Organic Compound</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">polyene</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">medium-chain hydrocarbon</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">biofuel</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">polyketide synthase</dc:subject>
+	
+		<prism:publicationName 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Applied Microbiology and Biotechnology</prism:publicationName>
+	
+		<dc:publisher 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Applied Microbiology and Biotechnology</dc:publisher>
+	
+		<prism:volume 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:volume>
+	
+		<prism:number 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:number>
+	    
+    
+    <items>
+      <rdf:Seq>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=html"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=nexml"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=nexus"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=rdf"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=html">
+    <title>Web page</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=html</link>
+    <description>A human-readable version of the resource</description>
+    <dc:format>text/html</dc:format>
+    <dc:language>EN-US</dc:language>
+  </item>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=nexml">
+    <title>NeXML file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=nexml</link>
+    <description>A NeXML serialization of the resource</description>
+    <dc:format>application/xml</dc:format>
+  </item>
+    
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=nexus">
+    <title>Nexus file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S15775?format=nexus</link>
+    <description>A Nexus serialization of the resource</description>
+    <dc:format>text/plain</dc:format>
+  </item>
+     
+ 
+</rdf:RDF>

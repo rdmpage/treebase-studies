@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+
+
+
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S10905">
+    <title>Evolution of a Neotropical marine fish lineage (Subfamily Chaenopsinae, Suborder Blennioidei) based on phylogenetic analysis of combined molecular and morphological data.</title>
+    <link>http://purl.org/phylo/treebase/phylows/</link>
+    <description>Serializations for study/TB2:S10905</description>
+    
+	
+		<prism:section 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Study</prism:section>
+	
+		<tb:identifier.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">10905</tb:identifier.study>
+	
+		<tb:identifier.study.tb1 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#"></tb:identifier.study.tb1>
+	
+		<tb:title.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">Phylogeny of Chaenopsinae</tb:title.study>
+	
+		<dc:date 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">2011-07-06</dc:date>
+	
+		<prism:modificationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2011-07-06</prism:modificationDate>
+	
+		<prism:creationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2010-09-28</prism:creationDate>
+	
+		<dcterms:bibliographicCitation 
+			xmlns:dcterms="http://purl.org/dc/terms/">Lin H., &amp; Hastings P. 2011. Evolution of a Neotropical marine fish lineage (Subfamily Chaenopsinae, Suborder Blennioidei) based on phylogenetic analysis of combined molecular and morphological data. Molecular Phylogenetics and Evolution , 60: 236-248.</dcterms:bibliographicCitation>
+	
+		<dc:title 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Evolution of a Neotropical marine fish lineage (Subfamily Chaenopsinae, Suborder Blennioidei) based on phylogenetic analysis of combined molecular and morphological data.</dc:title>
+	
+		<dc:creator 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Lin H., &amp; Hastings P.</dc:creator>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Lin H.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Hastings P.</dc:contributor>
+	
+		<prism:publicationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2011</prism:publicationDate>
+	
+		<prism:doi 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">10.1016/j.ympev.2011.04.018</prism:doi>
+	
+		<prism:startingPage 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">236</prism:startingPage>
+	
+		<prism:endingPage 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">248</prism:endingPage>
+	
+		<prism:pageRange 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">236-248</prism:pageRange>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Chaenopsidae</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Phylogeny</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Rapid radiation</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Habitat use</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Trans-isthmian geminate</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Convergent evolution</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Mimicry</dc:subject>
+	
+		<prism:publicationName 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Molecular Phylogenetics and Evolution </prism:publicationName>
+	
+		<dc:publisher 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Molecular Phylogenetics and Evolution </dc:publisher>
+	
+		<prism:volume 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">60</prism:volume>
+	
+		<prism:number 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"></prism:number>
+	    
+    
+    <items>
+      <rdf:Seq>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=html"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=nexml"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=nexus"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=rdf"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=html">
+    <title>Web page</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=html</link>
+    <description>A human-readable version of the resource</description>
+    <dc:format>text/html</dc:format>
+    <dc:language>EN-US</dc:language>
+  </item>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=nexml">
+    <title>NeXML file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=nexml</link>
+    <description>A NeXML serialization of the resource</description>
+    <dc:format>application/xml</dc:format>
+  </item>
+    
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=nexus">
+    <title>Nexus file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S10905?format=nexus</link>
+    <description>A Nexus serialization of the resource</description>
+    <dc:format>text/plain</dc:format>
+  </item>
+     
+ 
+</rdf:RDF>

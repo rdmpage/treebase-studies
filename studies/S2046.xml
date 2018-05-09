@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+
+
+
+
+
+
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://purl.org/rss/1.0/">
+  <channel rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2046">
+    <title>Detecting Possibly Saturated Positions in 18S and 28S Sequences and their Influence on Phylogenetic Reconstruction of Annelida (Lophotrochozoa).</title>
+    <link>http://purl.org/phylo/treebase/phylows/</link>
+    <description>Serializations for study/TB2:S2046</description>
+    
+	
+		<prism:section 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Study</prism:section>
+	
+		<tb:identifier.study 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">2046</tb:identifier.study>
+	
+		<tb:identifier.study.tb1 
+			xmlns:tb="http://purl.org/phylo/treebase/2.0/terms#">S2045</tb:identifier.study.tb1>
+	
+		<dc:date 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">2009-11-23</dc:date>
+	
+		<prism:modificationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2009-11-23</prism:modificationDate>
+	
+		<prism:creationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2008-04-28</prism:creationDate>
+	
+		<dcterms:bibliographicCitation 
+			xmlns:dcterms="http://purl.org/dc/terms/">Struck T., Nesnidal M., Purschke G., &amp; Halanych K. 2008. Detecting Possibly Saturated Positions in 18S and 28S Sequences and their Influence on Phylogenetic Reconstruction of Annelida (Lophotrochozoa). Molecular Phylogenetics and Evolution, 48(2): 628-645.</dcterms:bibliographicCitation>
+	
+		<dc:title 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Detecting Possibly Saturated Positions in 18S and 28S Sequences and their Influence on Phylogenetic Reconstruction of Annelida (Lophotrochozoa).</dc:title>
+	
+		<dc:creator 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Struck T., Nesnidal M., Purschke G., &amp; Halanych K.</dc:creator>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Struck T.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Nesnidal M.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Purschke G.</dc:contributor>
+	
+		<dc:contributor 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Halanych K.</dc:contributor>
+	
+		<prism:publicationDate 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2008</prism:publicationDate>
+	
+		<prism:doi 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">10.1016/j.ympev.2008.05.015</prism:doi>
+	
+		<prism:startingPage 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">628</prism:startingPage>
+	
+		<prism:endingPage 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">645</prism:endingPage>
+	
+		<prism:pageRange 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">628-645</prism:pageRange>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">C factor</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">O/E ratio</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Annelida</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Saturation</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">rRNA</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Phylogeny</dc:subject>
+	
+		<dc:subject 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Iss</dc:subject>
+	
+		<prism:publicationName 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">Molecular Phylogenetics and Evolution</prism:publicationName>
+	
+		<dc:publisher 
+			xmlns:dc="http://purl.org/dc/elements/1.1/">Molecular Phylogenetics and Evolution</dc:publisher>
+	
+		<prism:volume 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">48</prism:volume>
+	
+		<prism:number 
+			xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">2</prism:number>
+	    
+    
+    <items>
+      <rdf:Seq>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=html"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=nexml"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=nexus"/>
+		<rdf:li rdf:resource="http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=rdf"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=html">
+    <title>Web page</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=html</link>
+    <description>A human-readable version of the resource</description>
+    <dc:format>text/html</dc:format>
+    <dc:language>EN-US</dc:language>
+  </item>
+  
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=nexml">
+    <title>NeXML file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=nexml</link>
+    <description>A NeXML serialization of the resource</description>
+    <dc:format>application/xml</dc:format>
+  </item>
+    
+  
+  <item rdf:about="http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=nexus">
+    <title>Nexus file</title>
+    <link>http://purl.org/phylo/treebase/phylows/study/TB2:S2046?format=nexus</link>
+    <description>A Nexus serialization of the resource</description>
+    <dc:format>text/plain</dc:format>
+  </item>
+     
+ 
+</rdf:RDF>
