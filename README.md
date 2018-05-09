@@ -5,7 +5,7 @@ Adding identifiers to TreeBASE studies
 
 Can fetch complete list of TreeBASE studies via OAI-PMH: https://treebase.org/treebase-web/top/oai?verb=ListRecords&metadataPrefix=oai_dc
 
-Unfortunately this feed doesn't include DOIs as a separate field, so we then need to harvest each record individually :(
+For more details on this service see the [TreeBASE wiki](https://github.com/TreeBASE/treebase/wiki/OAI-PMH). Unfortunately this feed doesn't include DOIs as a separate field, so we then need to harvest each record individually :(
 
 Fetch the OAI-PMH list of studies:
 
