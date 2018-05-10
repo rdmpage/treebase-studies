@@ -25,4 +25,8 @@ I set up a public group for TreeBASE papers on Mendeley https://www.mendeley.com
 
 Run parse-studies.php to read the RSS files for each study, convert to RIS, and try and add missing DOIs via CrossRef.
 
+## Generate SQL files
+
+To explore the data I generated an SQL dump of the metadata for the studies, with a separate column for the DOIs I added to help with debugging. Dumps of the data are in the data folder.
+
 
